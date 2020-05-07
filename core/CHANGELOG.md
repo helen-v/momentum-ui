@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [19.4.16](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/core@19.4.15...@momentum-ui/core@19.4.16) (2020-05-07)
+
+**Note:** Version bump only for package @momentum-ui/core
+
+
+
+
+
+## [19.4.15](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/core@19.4.14...@momentum-ui/core@19.4.15) (2020-05-02)
+
+**Note:** Version bump only for package @momentum-ui/core
+
+
+
+
+
+## [19.4.14](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/core@19.4.13...@momentum-ui/core@19.4.14) (2020-04-30)
+
+
+### Bug Fixes
+
+* **lightbox:** fix thumbnail list shrinking in multi page files ([#598](https://github.com/momentum-design/momentum-ui/issues/598)) ([3b67f6d](https://github.com/momentum-design/momentum-ui/commit/3b67f6d107ab46a6903d34b6adcb62d18b5366f1))
+
+
+
+
+
 ## [19.4.13](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/core@19.4.12...@momentum-ui/core@19.4.13) (2020-04-28)
 
 **Note:** Version bump only for package @momentum-ui/core
