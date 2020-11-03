@@ -3,6 +3,535 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [7.61.1](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.61.0...@momentum-ui/icons@7.61.1) (2020-11-02)
+
+
+### Bug Fixes
+
+* **icons:** update to trigger publish ([9004df5](https://github.com/momentum-design/momentum-ui/commit/9004df580a8c65b5dedea1f245ae400a543f8599))
+
+
+
+
+
+# [7.61.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.60.2...@momentum-ui/icons@7.61.0) (2020-11-02)
+
+
+### Features
+
+* **icons:** add new icons ([9a8e5a9](https://github.com/momentum-design/momentum-ui/commit/9a8e5a92af383651a619ab5e2a3d19cf224e7cc8))
+
+
+
+
+
+## [7.60.2](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.60.1...@momentum-ui/icons@7.60.2) (2020-10-24)
+
+**Note:** Version bump only for package @momentum-ui/icons
+
+
+
+
+
+## [7.60.1](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.60.0...@momentum-ui/icons@7.60.1) (2020-10-20)
+
+**Note:** Version bump only for package @momentum-ui/icons
+
+
+
+
+
+# [7.60.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.59.0...@momentum-ui/icons@7.60.0) (2020-10-17)
+
+
+### Features
+
+* **icons:** add integrations_16 ([6485572](https://github.com/momentum-design/momentum-ui/commit/6485572887a4a84f06486b4eeff9dca6315a7780))
+* **icons:** add integrations_24 ([997b0bc](https://github.com/momentum-design/momentum-ui/commit/997b0bc31dc4cce31490ecb07ef850a12b9117e1))
+* **icons:** add tabs_16 ([b35f89c](https://github.com/momentum-design/momentum-ui/commit/b35f89ce03a2ab8a4bd715f354f3651f46ebd1b1))
+* **icons:** add tabs_24 ([cf83cf1](https://github.com/momentum-design/momentum-ui/commit/cf83cf19cc8f76997620ffbab7ae691b69227202))
+* **icons:** add webex-desk-camera_20 ([a91042b](https://github.com/momentum-design/momentum-ui/commit/a91042b99b4a059bf7521e17a4d96bdaa11721ad))
+
+
+
+
+
+# [7.59.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.58.0...@momentum-ui/icons@7.59.0) (2020-10-13)
+
+
+### Features
+
+* **icons:** add call-forward-settings_16 ([934eef7](https://github.com/momentum-design/momentum-ui/commit/934eef701be4ca95d8654198f2de1703768e81e6))
+
+
+
+
+
+# [7.58.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.57.0...@momentum-ui/icons@7.58.0) (2020-10-10)
+
+
+### Features
+
+* **icons:** add Queue-contact_20 ([2aa67df](https://github.com/momentum-design/momentum-ui/commit/2aa67dff83df6f803afd7e6e0b095c8c26d31606))
+
+
+
+
+
+# [7.57.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.56.0...@momentum-ui/icons@7.57.0) (2020-10-03)
+
+
+### Features
+
+* **icons:** add file-excel-active_12 ([2b4c536](https://github.com/momentum-design/momentum-ui/commit/2b4c536ebc32956045e98a27f804f48f1f587189))
+* **icons:** add file-excel-active_16 ([7dfe343](https://github.com/momentum-design/momentum-ui/commit/7dfe343046fa6670044a016947bde9a1bc4c8f90))
+* **icons:** add file-excel-active_20 ([8432a41](https://github.com/momentum-design/momentum-ui/commit/8432a4176eed4abdce5711e2d16b0020a567c9f6))
+* **icons:** add file-excel-active_24 ([da1f2b5](https://github.com/momentum-design/momentum-ui/commit/da1f2b5fd52a1c8348ef9b56ab8d0fc944df8f23))
+* **icons:** add file-excel-active_28 ([9fd20dd](https://github.com/momentum-design/momentum-ui/commit/9fd20dd250fccebd666c94612cb46211038ba642))
+* **icons:** add file-excel-active_32 ([37c13f0](https://github.com/momentum-design/momentum-ui/commit/37c13f0d527a00da86730e6660863ec40e3e8b5c))
+* **icons:** add file-excel-active_36 ([7a6b495](https://github.com/momentum-design/momentum-ui/commit/7a6b4954b09db91fed76488cfd0711623f332fb1))
+* **icons:** add file-excel-active_40 ([d540704](https://github.com/momentum-design/momentum-ui/commit/d54070473df47ea508aa21efd597f491694ec1d7))
+* **icons:** add file-excel-active_44 ([9fb6150](https://github.com/momentum-design/momentum-ui/commit/9fb6150018fd9a0187b55edc53399a8607b52b92))
+
+
+
+
+
+# [7.56.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.55.0...@momentum-ui/icons@7.56.0) (2020-10-01)
+
+
+### Features
+
+* **icons:** add contact-group_20 ([c6a9f32](https://github.com/momentum-design/momentum-ui/commit/c6a9f32a684072a1c7b5e67e9ec8469e6ff00c5e))
+* **icons:** add disconnect-contact_16 ([5b744d1](https://github.com/momentum-design/momentum-ui/commit/5b744d130fbacef743a657127aefcae008c14712))
+* **icons:** add file-excel-active_72 ([8b979fe](https://github.com/momentum-design/momentum-ui/commit/8b979fe0f7c9ec4f412c69cbd5298cef4a5c4907))
+* **icons:** add generic-device-video_12 ([8cbfbbe](https://github.com/momentum-design/momentum-ui/commit/8cbfbbe5d82f16581d3fa935fabfe05a756ad130))
+* **icons:** add generic-device-video_14 ([1566ff4](https://github.com/momentum-design/momentum-ui/commit/1566ff4ff07cdebff583e065b480e72f06451e64))
+* **icons:** add generic-device-video_16 ([ec28b52](https://github.com/momentum-design/momentum-ui/commit/ec28b52430973c6ab472639d21e2164ed97c97eb))
+* **icons:** add generic-device-video_20 ([ee0a09c](https://github.com/momentum-design/momentum-ui/commit/ee0a09c6f430b1701e3e8ee66584351167036c79))
+* **icons:** add meet-end_16 ([b808a64](https://github.com/momentum-design/momentum-ui/commit/b808a64a78ab527a2a58fa71ce7d86511de39e5a))
+* **icons:** add product-demo_16 ([9dff0ad](https://github.com/momentum-design/momentum-ui/commit/9dff0ad4fde2e02c51a5a43125e4138875fb8af3))
+* **icons:** add Queue-lookup_16 ([a065712](https://github.com/momentum-design/momentum-ui/commit/a0657123956ab18c2ad580985cee6f6f6f7bccb5))
+* **icons:** add subscript_16 ([a765787](https://github.com/momentum-design/momentum-ui/commit/a7657870a12080209afa9054f2bfc79e20e07dda))
+* **icons:** add superscript_16 ([feac0bf](https://github.com/momentum-design/momentum-ui/commit/feac0bf359babefc0f93c642b765f14ea09d589b))
+* **icons:** add telepresence-ix5000_16 ([0a45253](https://github.com/momentum-design/momentum-ui/commit/0a45253e86f015abf34eb72fe2ad1b66d2063785))
+* **icons:** add telepresence-ix5000_20 ([5bf88fe](https://github.com/momentum-design/momentum-ui/commit/5bf88fedd39764a4958ede730c097a07a475495d))
+* **icons:** add text-table_16 ([5edb4c1](https://github.com/momentum-design/momentum-ui/commit/5edb4c1dc7761cfccf9e759d7bf9e1e06847770c))
+* **icons:** add video-layout_16 ([b9e5932](https://github.com/momentum-design/momentum-ui/commit/b9e59326ea4204538648055eacaa66fdfafb93a9))
+* **icons:** add webex-community_20 ([62feb73](https://github.com/momentum-design/momentum-ui/commit/62feb73b990c29303e796feb4139b4abda4f5278))
+
+
+
+
+
+# [7.55.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.54.0...@momentum-ui/icons@7.55.0) (2020-09-29)
+
+
+### Features
+
+* **icons:** add file-excel-active_12 ([4111987](https://github.com/momentum-design/momentum-ui/commit/41119877265acc02ba536b46ed4d0d16663d107c))
+* **icons:** add file-excel-active_16 ([133633d](https://github.com/momentum-design/momentum-ui/commit/133633dfadf36153a825537d68f8e29fc88a93a6))
+* **icons:** add file-excel-active_20 ([d9b4a4a](https://github.com/momentum-design/momentum-ui/commit/d9b4a4aea054cfb8e3c56709e829ce0740db0f6d))
+* **icons:** add file-excel-active_24 ([a68b056](https://github.com/momentum-design/momentum-ui/commit/a68b0562c5da511b24bf90b1f90960fc027ab581))
+* **icons:** add file-excel-active_24 ([d512c59](https://github.com/momentum-design/momentum-ui/commit/d512c59011a4e3a9670d8d0c8491ddb1418f51a5))
+* **icons:** add file-excel-active_28 ([7f5412c](https://github.com/momentum-design/momentum-ui/commit/7f5412c707885429d1b1edb0ad779605c8be262c))
+* **icons:** add file-excel-active_28 ([ee173ca](https://github.com/momentum-design/momentum-ui/commit/ee173caf152d13a842223583a397f32e205afcd0))
+* **icons:** add file-excel-active_32 ([cff4e0f](https://github.com/momentum-design/momentum-ui/commit/cff4e0f13e9d3d3f412355552c90c9141201d642))
+* **icons:** add file-excel-active_36 ([418f75f](https://github.com/momentum-design/momentum-ui/commit/418f75f1e38f03ca59cc1b7fcf90a6fe87f4245b))
+* **icons:** add file-excel-active_40 ([2d84529](https://github.com/momentum-design/momentum-ui/commit/2d84529c1a0da8a4a11fbd274f6b49f744669b3c))
+* **icons:** add file-excel-active_44 ([6db8c69](https://github.com/momentum-design/momentum-ui/commit/6db8c694a52ddaadabd6224c52876ea1f6bce605))
+* **icons:** add file-excel-active_72 ([3f98f26](https://github.com/momentum-design/momentum-ui/commit/3f98f26a46a20ec0dfd469ac78429d465786a826))
+
+
+
+
+
+# [7.54.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.53.0...@momentum-ui/icons@7.54.0) (2020-09-26)
+
+
+### Features
+
+* **icons:** add call-voicemail_14 ([8c2c51b](https://github.com/momentum-design/momentum-ui/commit/8c2c51badac2578f8ce2f7a126f2b78ca0d7d637))
+* **icons:** add company_12 ([39a0042](https://github.com/momentum-design/momentum-ui/commit/39a00421cd063d99b2412beb15b07bf9b4d6d284))
+* **icons:** add dialpad_14 ([3dd9abf](https://github.com/momentum-design/momentum-ui/commit/3dd9abfca0c843a2e64cd8fb9793d15ed8245c21))
+* **icons:** add gif_12 ([d319f5d](https://github.com/momentum-design/momentum-ui/commit/d319f5d3cad29cb0d731784145b600dda9127a47))
+* **icons:** add incoming-call-active_12 ([c105197](https://github.com/momentum-design/momentum-ui/commit/c105197160bf68cff98d21292c1ac34db3a0b086))
+* **icons:** add incoming-call-active_16 ([6e62d07](https://github.com/momentum-design/momentum-ui/commit/6e62d0721a285f4c0d6f0d9c897acb3f2b76732f))
+* **icons:** add layout-side-by-side-vertical_12 ([84afccd](https://github.com/momentum-design/momentum-ui/commit/84afccd38ad27c7fc7f9c4f2f11a41f50816abd4))
+* **icons:** add meet-end_16 ([cb08978](https://github.com/momentum-design/momentum-ui/commit/cb089785daad10da60c4b9677bbeaf714b04c0b1))
+* **icons:** add outgoing-call-active_12 ([fb367bd](https://github.com/momentum-design/momentum-ui/commit/fb367bd0bd82fe226d078546e9c3daa2699c5805))
+* **icons:** add outgoing-call-active_16 ([dfc3b24](https://github.com/momentum-design/momentum-ui/commit/dfc3b2417f32d9dc4a47e61971eb1b1e12868000))
+* **icons:** add panel-control-dragger_16 ([43b6577](https://github.com/momentum-design/momentum-ui/commit/43b6577945db83fb839336a41efc8a04f81952d3))
+* **icons:** add parked_16 ([c4b4486](https://github.com/momentum-design/momentum-ui/commit/c4b4486a44d041cba6d65e545c9830211e83dbd3))
+* **icons:** add parked_20 ([2ca9fa0](https://github.com/momentum-design/momentum-ui/commit/2ca9fa0e0e975d25c2005ed40e81a4d0a0593937))
+* **icons:** add parked_24 ([c3e89a0](https://github.com/momentum-design/momentum-ui/commit/c3e89a001a9cf9c0de470d54bc7a8fb3434bd587))
+* **icons:** add participant-blocked_12 ([b79ec4b](https://github.com/momentum-design/momentum-ui/commit/b79ec4b936d687be70b906686628d2871e9cd77a))
+* **icons:** add pull-call_14 ([71e198b](https://github.com/momentum-design/momentum-ui/commit/71e198b14c7bcb9b57c22e31a7b86d2607b5dbaa))
+* **icons:** add queue_14 ([ab914bd](https://github.com/momentum-design/momentum-ui/commit/ab914bd47b70cd7306a8f4704adae072971b8b6e))
+* **icons:** add queue-contact_14 ([375ba65](https://github.com/momentum-design/momentum-ui/commit/375ba65f7f431e01cb8ba0b8d9c06432d0299551))
+* **icons:** add retrieve-call_14 ([d155167](https://github.com/momentum-design/momentum-ui/commit/d15516700373a5e51c128e1bf9e010b8dd970693))
+* **icons:** add retrieve-call_16 ([e9d091d](https://github.com/momentum-design/momentum-ui/commit/e9d091ddaa85988d1af5ea1ed78b0c1887b1cd4b))
+
+
+
+
+
+# [7.53.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.52.0...@momentum-ui/icons@7.53.0) (2020-09-15)
+
+
+### Features
+
+* **icons:** add call-pickup_14 ([c4566d6](https://github.com/momentum-design/momentum-ui/commit/c4566d63a2f0eeef36c8d2b325093dee2ccbd573))
+
+
+
+
+
+# [7.52.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.51.1...@momentum-ui/icons@7.52.0) (2020-09-08)
+
+
+### Features
+
+* **icons:** add call-pickup_12 ([08eefd3](https://github.com/momentum-design/momentum-ui/commit/08eefd34b0aa7c31bd473108895531081199c547))
+* **icons:** add overflow-left_16 ([a492262](https://github.com/momentum-design/momentum-ui/commit/a492262f30cc8de922326a790927c9137716cd31))
+* **icons:** add overflow-right_16 ([892d8cc](https://github.com/momentum-design/momentum-ui/commit/892d8ccc1e7567a36fdb3dcd081a951551428458))
+* **icons:** add product-demo_16 ([922c9a6](https://github.com/momentum-design/momentum-ui/commit/922c9a67d2c746b878f3432e62f1abd4ea7473f5))
+* **icons:** add Queue-lookup_16 ([ec9ca8d](https://github.com/momentum-design/momentum-ui/commit/ec9ca8dbf5e84001ea74fcdae656aba52b14da0e))
+* **icons:** add unsorted_10 ([5312efc](https://github.com/momentum-design/momentum-ui/commit/5312efc6e938747528dcababfc4b0fd45c0b87cc))
+* **icons:** add unsorted_16 ([aaf15e6](https://github.com/momentum-design/momentum-ui/commit/aaf15e64c139bd7ffc1bdbcd10cbc17561ca66dd))
+* **icons:** add unsorted_24 ([c17ba5b](https://github.com/momentum-design/momentum-ui/commit/c17ba5b6d011b1702dd008a208da6d062a89293d))
+
+
+
+
+
+## [7.51.1](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.51.0...@momentum-ui/icons@7.51.1) (2020-09-03)
+
+**Note:** Version bump only for package @momentum-ui/icons
+
+
+
+
+
+# [7.51.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.50.0...@momentum-ui/icons@7.51.0) (2020-08-31)
+
+
+### Features
+
+* **icons:** add call-settings_14 ([0a1392e](https://github.com/momentum-design/momentum-ui/commit/0a1392e6bbe935d65ad4cd1ab95a0d9493e5c03d))
+
+
+
+
+
+# [7.50.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.49.0...@momentum-ui/icons@7.50.0) (2020-08-22)
+
+
+### Features
+
+* **icons:** add disconnect-contact_16 ([4895b21](https://github.com/momentum-design/momentum-ui/commit/4895b2162e745e993ac519a9c1fef1c6a42fd51b))
+* **icons:** add mark-as-unread_12 ([07e7967](https://github.com/momentum-design/momentum-ui/commit/07e79670db2952ff5acc805973adfc4580a76cfe))
+* **icons:** add mark-as-unread_20 ([e910ffc](https://github.com/momentum-design/momentum-ui/commit/e910ffc2eeaf3c3071c357e491f38d081fb107a9))
+* **icons:** add moderator_56 ([e4e885b](https://github.com/momentum-design/momentum-ui/commit/e4e885b6fa5d4dec675c7d05740a4fceb40b7a8f))
+* **icons:** add moderator_80 ([e6bdb1e](https://github.com/momentum-design/momentum-ui/commit/e6bdb1e17f69bcf6132910ffffa0dee11037b395))
+* **icons:** add warning-active_12 ([22535a8](https://github.com/momentum-design/momentum-ui/commit/22535a8077aa1516742731cf0ddde7389bc0bdb1))
+
+
+
+
+
+# [7.49.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.48.0...@momentum-ui/icons@7.49.0) (2020-08-18)
+
+
+### Features
+
+* **icons:** add secure_10 ([567e858](https://github.com/momentum-design/momentum-ui/commit/567e85803ab09f6ac774b15375313765f14dc4f9))
+* **icons:** add secure_8 ([75327c0](https://github.com/momentum-design/momentum-ui/commit/75327c088bad7a15c157872415bd3685b27532ca))
+
+
+
+
+
+# [7.48.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.47.0...@momentum-ui/icons@7.48.0) (2020-08-08)
+
+
+### Features
+
+* **icons:** add call-forward-settings_16 ([4a8abc2](https://github.com/momentum-design/momentum-ui/commit/4a8abc2aa11f4ead99a47f70bb851d2a24083e40))
+* **icons:** add encryption_20 ([097b373](https://github.com/momentum-design/momentum-ui/commit/097b37365c7a815bc551422f9e66ef97ca7fbb4f))
+* **icons:** add exchange_16 ([cd95fb8](https://github.com/momentum-design/momentum-ui/commit/cd95fb814722edb600eb2aba2b4f87ba15842524))
+
+
+
+
+
+# [7.47.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.46.0...@momentum-ui/icons@7.47.0) (2020-08-01)
+
+
+### Features
+
+* **icons:** add call-pickup_12 ([1b807fb](https://github.com/momentum-design/momentum-ui/commit/1b807fb7a2b4dfeff70bc597f4019f4660e8aed5))
+* **icons:** add call-pickup_24 ([5d93af3](https://github.com/momentum-design/momentum-ui/commit/5d93af3e2844d7a2a780dea35226785c3e05dabf))
+* **icons:** add encryption_20 ([8b96cb8](https://github.com/momentum-design/momentum-ui/commit/8b96cb82c81d91d4b64c8cbc1a68c55ee894ec9c))
+
+
+
+
+
+# [7.46.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.45.0...@momentum-ui/icons@7.46.0) (2020-07-30)
+
+
+### Features
+
+* **icons:** add twitter_12 ([9d5ffa8](https://github.com/momentum-design/momentum-ui/commit/9d5ffa8d7736b73ef31633d76dba1def624e1842))
+* **icons:** add twitter_16 ([d3cf393](https://github.com/momentum-design/momentum-ui/commit/d3cf3937fe06b56820f4dbe97cfd6d498c31c51c))
+* **icons:** add video-layout-single_12 ([8ada1db](https://github.com/momentum-design/momentum-ui/commit/8ada1db9baa24fd3a6da037f040cd497049d05da))
+
+
+
+
+
+# [7.45.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.44.1...@momentum-ui/icons@7.45.0) (2020-07-18)
+
+
+### Features
+
+* **icons:** add adjust_20 ([d1ffd84](https://github.com/momentum-design/momentum-ui/commit/d1ffd84de4932276dd3753241b41b39d8f308de0))
+* **icons:** add call-forward-settings_14 ([c5ab0b7](https://github.com/momentum-design/momentum-ui/commit/c5ab0b75a27c73913361b058cb0a2729ea2c4901))
+* **icons:** add email-active_12 ([e1bbfaf](https://github.com/momentum-design/momentum-ui/commit/e1bbfaf319575787a922635b13970bcb0dcb8028))
+* **icons:** add email-active_16 ([f8e1383](https://github.com/momentum-design/momentum-ui/commit/f8e13835d3de80aacc66f3650070a1a68a3b9c3b))
+* **icons:** add encryption_20 ([81d310a](https://github.com/momentum-design/momentum-ui/commit/81d310a5699cf2b55c4622b0cf2ca6674116e975))
+* **icons:** add house_20 ([446e30c](https://github.com/momentum-design/momentum-ui/commit/446e30cb0dd93c0cb3835f9c31284e823930c204))
+* **icons:** add messenger_12 ([922c3eb](https://github.com/momentum-design/momentum-ui/commit/922c3ebd8eb82fd54589a25d1360aa60fc03b59f))
+* **icons:** add messenger_16 ([e40caeb](https://github.com/momentum-design/momentum-ui/commit/e40caeb209424f7d93e3f4ac26fa53a31d65499e))
+* **icons:** add other-number_20 ([3f45ed8](https://github.com/momentum-design/momentum-ui/commit/3f45ed8939de2c753e525b4637cf391d2d75ad2d))
+* **icons:** add recurring-off_12 ([ab1c48c](https://github.com/momentum-design/momentum-ui/commit/ab1c48c8582248f4c4040dac558fb0d3c01feb1b))
+* **icons:** add SMS_12 ([e9df2eb](https://github.com/momentum-design/momentum-ui/commit/e9df2ebbd84a7c78a9650e5202831821dbf3f51b))
+* **icons:** add text-highlight_12 ([75931ab](https://github.com/momentum-design/momentum-ui/commit/75931abc5f44629d05f43e598238a241f8412073))
+* **icons:** add text-highlight_16 ([9b7ae90](https://github.com/momentum-design/momentum-ui/commit/9b7ae90279d2d613fd5d2a1b19ff893671f5a471))
+* **icons:** add whatsApp_12 ([da2a2cf](https://github.com/momentum-design/momentum-ui/commit/da2a2cf1914ed9ca6d61bd85c33c9ddf89cba588))
+
+
+
+
+
+## [7.44.1](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.44.0...@momentum-ui/icons@7.44.1) (2020-07-16)
+
+**Note:** Version bump only for package @momentum-ui/icons
+
+
+
+
+
+# [7.44.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.43.0...@momentum-ui/icons@7.44.0) (2020-07-14)
+
+
+### Features
+
+* **icons:** add event_16 ([9f67a30](https://github.com/momentum-design/momentum-ui/commit/9f67a303cdfaed982e7383aec587eaa5fbeb516d))
+* **icons:** add flow_16 ([998f380](https://github.com/momentum-design/momentum-ui/commit/998f380028fefea1b3c75dbfda8c98420537dc22))
+
+
+
+
+
+# [7.43.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.42.1...@momentum-ui/icons@7.43.0) (2020-07-11)
+
+
+### Features
+
+* **icons:** add assign-host_16 ([56a4c9f](https://github.com/momentum-design/momentum-ui/commit/56a4c9f6290002d2aac9a06765ae6e40121958c3))
+* **icons:** add assign-privilege_12 ([2a5521c](https://github.com/momentum-design/momentum-ui/commit/2a5521c1d7e15597532e2500783a36fde06de069))
+* **icons:** add import_12 ([d247ddd](https://github.com/momentum-design/momentum-ui/commit/d247ddd05cbc1b9f18d8e41064e35580e59fa212))
+* **icons:** add join-audio_24 ([3117bda](https://github.com/momentum-design/momentum-ui/commit/3117bda63d6597632949a4c8c901a509139e1bad))
+* **icons:** add moderator_16 ([100d921](https://github.com/momentum-design/momentum-ui/commit/100d9219d79d251892bf9a67330736aa43a9e838))
+* **icons:** add proximity-video_12 ([e5359e7](https://github.com/momentum-design/momentum-ui/commit/e5359e71d183786696df22f67300d92216e5ffc9))
+* **icons:** add proximity-video_14 ([a9858d2](https://github.com/momentum-design/momentum-ui/commit/a9858d2bc16925344b6e47681eabf24c08578708))
+* **icons:** add proximity-video_16 ([b85d72e](https://github.com/momentum-design/momentum-ui/commit/b85d72e69d7512d3939864d25a96c4d0d2f9bb5e))
+* **icons:** add proximity-video_20 ([fc7e52a](https://github.com/momentum-design/momentum-ui/commit/fc7e52aae51d79436e796ecc90462184c0ae97de))
+* **icons:** add proximity-video_24 ([114e8a2](https://github.com/momentum-design/momentum-ui/commit/114e8a284cb8a0c319e5970df62811b230005a79))
+* **icons:** add proximity-video_26 ([626f648](https://github.com/momentum-design/momentum-ui/commit/626f648a1058cec8eeb1bd1e7113b64e4144cc23))
+
+
+
+
+
+## [7.42.1](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.42.0...@momentum-ui/icons@7.42.1) (2020-07-09)
+
+
+### Bug Fixes
+
+* **tokens:** add config for push to S3 ([add0e64](https://github.com/momentum-design/momentum-ui/commit/add0e6444ed55ba034dabcd3852f5e12f73c5635))
+
+
+
+
+
+# [7.42.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.41.0...@momentum-ui/icons@7.42.0) (2020-07-08)
+
+
+### Features
+
+* **icons:** add team-new_24 ([78ea2d2](https://github.com/momentum-design/momentum-ui/commit/78ea2d2f8e5a636798bf9251753486b7f579849a))
+
+
+
+
+
+# [7.41.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.40.0...@momentum-ui/icons@7.41.0) (2020-07-07)
+
+
+### Features
+
+* **icons:** add device-connection_14 ([91bc312](https://github.com/momentum-design/momentum-ui/commit/91bc312790e9ee80d13aad19f03336872322f697))
+* **icons:** add device-connection-active_14 ([9efb2a8](https://github.com/momentum-design/momentum-ui/commit/9efb2a886cfdacf0938a7b32cbd00cf090218dcd))
+
+
+
+
+
+# [7.40.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.39.1...@momentum-ui/icons@7.40.0) (2020-07-03)
+
+
+### Features
+
+* **icons:** add device-connection_14 ([1fc0326](https://github.com/momentum-design/momentum-ui/commit/1fc0326d217d4dbb99fb5bc4e7e2e19154e014a8))
+* **icons:** add recurring_12 ([3dc9c7a](https://github.com/momentum-design/momentum-ui/commit/3dc9c7a7fbd1a8fe87b496c3be8a10d93f27f893))
+* **icons:** add remote-desktop-control_12 ([97641b7](https://github.com/momentum-design/momentum-ui/commit/97641b7a8da16dbb2cbb792702d6785f4513bbc0))
+* **icons:** add tablet_12 ([c405ced](https://github.com/momentum-design/momentum-ui/commit/c405cedec5e46f64b22f3b5d219114bd487588d8))
+
+
+
+
+
+## [7.39.1](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.39.0...@momentum-ui/icons@7.39.1) (2020-07-01)
+
+**Note:** Version bump only for package @momentum-ui/icons
+
+
+
+
+
+# [7.39.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.38.1...@momentum-ui/icons@7.39.0) (2020-06-28)
+
+
+### Features
+
+* **icons:** add ask-for-help_20 ([45ab9cd](https://github.com/momentum-design/momentum-ui/commit/45ab9cdc360336963c36f7e321b95c9248896336))
+* **icons:** add contact-group_16 ([267a132](https://github.com/momentum-design/momentum-ui/commit/267a132ac6649c928d769494d5517c5e396cba88))
+* **icons:** add device-in-room-end_16 ([e1d04e2](https://github.com/momentum-design/momentum-ui/commit/e1d04e29244c0b9dd12f9e7e06fe9f986e0ed0a2))
+* **icons:** add encryption_16 ([931ca6f](https://github.com/momentum-design/momentum-ui/commit/931ca6f54d0af874c974aef125450a24c984f25a))
+* **icons:** add queue-contact_20 ([fc2e9ff](https://github.com/momentum-design/momentum-ui/commit/fc2e9ffcd521b92673065ecaa4531ce40f05a5ca))
+
+
+
+
+
+## [7.38.1](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.38.0...@momentum-ui/icons@7.38.1) (2020-06-26)
+
+**Note:** Version bump only for package @momentum-ui/icons
+
+
+
+
+
+# [7.38.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.37.0...@momentum-ui/icons@7.38.0) (2020-06-18)
+
+
+### Features
+
+* **icons:** add condition_16 ([6e1f3c9](https://github.com/momentum-design/momentum-ui/commit/6e1f3c9f9d45265e4ecb19adc74c570e666e498e))
+* **icons:** add parse_16 ([d721337](https://github.com/momentum-design/momentum-ui/commit/d721337c6c501f12fbe6c1b4292d2d5200c03fc8))
+* **icons:** add parse_20 ([f8252d7](https://github.com/momentum-design/momentum-ui/commit/f8252d7c59f172cb675241ed55cc92cb75227099))
+* **icons:** add Queue_contact ([7e4fac9](https://github.com/momentum-design/momentum-ui/commit/7e4fac97d96e2fa950e787204f2562c2372a8101))
+
+
+
+
+
+# [7.37.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.36.0...@momentum-ui/icons@7.37.0) (2020-06-13)
+
+
+### Features
+
+* **icons:** add ask-for-help_12 ([5ad79f4](https://github.com/momentum-design/momentum-ui/commit/5ad79f448bccd54b9efa5c149d7e3949de6b3a02))
+* **icons:** add ask-for-help_16 ([5a897d8](https://github.com/momentum-design/momentum-ui/commit/5a897d83d1fbe32aa6ba2a9b9c7dba2f307c2459))
+* **icons:** add horizontal-line_12 ([5131543](https://github.com/momentum-design/momentum-ui/commit/513154361cbbe47e8ea9601168a88ee65f58ad1f))
+* **icons:** add horizontal-line_16 ([654a04f](https://github.com/momentum-design/momentum-ui/commit/654a04fbce2b68588c1854183e8cf7a38641116c))
+* **icons:** add horizontal-line_24 ([e316311](https://github.com/momentum-design/momentum-ui/commit/e316311eb27f922a980f3cbe07d7132dfa37d919))
+* **icons:** add join-audio_16 ([561a5bb](https://github.com/momentum-design/momentum-ui/commit/561a5bba077f18de1b4b91a3561bbdb533e0dde9))
+* **icons:** add text-code-block_12 ([80d501a](https://github.com/momentum-design/momentum-ui/commit/80d501ab5a16f5dfee15676a152f38f4cd7f8d07))
+* **icons:** add text-code-block_16 ([97897c7](https://github.com/momentum-design/momentum-ui/commit/97897c7b56160484834cc7e3ee0ce7cdc051d09b))
+* **icons:** add text-code-block_24 ([3cbee90](https://github.com/momentum-design/momentum-ui/commit/3cbee90244adb91aee6fe8ba83b30498ac40c924))
+* **icons:** add text-list-numbered_24 ([0580645](https://github.com/momentum-design/momentum-ui/commit/05806458b8af2557a68064d802ba8697b7740159))
+* **icons:** add text-underline_24 ([a914432](https://github.com/momentum-design/momentum-ui/commit/a914432e10112dad2b319ab9927cef0f06d74ee4))
+
+
+
+
+
+# [7.36.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.35.0...@momentum-ui/icons@7.36.0) (2020-06-09)
+
+
+### Features
+
+* **icons:** add assign-host_12 ([971983a](https://github.com/momentum-design/momentum-ui/commit/971983ae6337cd9b42a5fcf1dbb319897c45d9e8))
+* **icons:** add join-audio_12 ([86d280b](https://github.com/momentum-design/momentum-ui/commit/86d280bffabc5ed38a9f3bebb195dd260bc4e12c))
+* **icons:** add join-audio_16 ([9dc752f](https://github.com/momentum-design/momentum-ui/commit/9dc752fccba6e2f3f85944f129dff7dbe0f6ae01))
+* **icons:** add raise-hand_12 ([07b24c1](https://github.com/momentum-design/momentum-ui/commit/07b24c11d1855ca0d7c349a5e30f3e7aa85789db))
+* **icons:** add raise-hand_16 ([f7c685c](https://github.com/momentum-design/momentum-ui/commit/f7c685c34b5395302e3713963d7afa4701d349f1))
+* **icons:** add raise-hand_20 ([308761c](https://github.com/momentum-design/momentum-ui/commit/308761cdcbc92260aa4c660fd9fd183200bc641b))
+* **icons:** add raise-hand_24 ([fcf167d](https://github.com/momentum-design/momentum-ui/commit/fcf167dafb5b537a1a993fa79f3bee72fb8c7eb6))
+
+
+
+
+
+# [7.35.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.34.0...@momentum-ui/icons@7.35.0) (2020-06-07)
+
+
+### Features
+
+* **icons:** add horizontal-line_12 ([6806049](https://github.com/momentum-design/momentum-ui/commit/6806049155ffcfeac29b100f834d04f7b224c11c))
+* **icons:** add horizontal-line_16 ([05fa6ce](https://github.com/momentum-design/momentum-ui/commit/05fa6cea6f0bc146e308f5a3f09ac08a99cd8610))
+* **icons:** add horizontal-line_24 ([b4379a9](https://github.com/momentum-design/momentum-ui/commit/b4379a9c20a75764dc1163511038393a1c20bcf5))
+* **icons:** add remote-desktop-control_10 ([9079ef0](https://github.com/momentum-design/momentum-ui/commit/9079ef0b31d408f536870a72e8e6da1b33150b8b))
+* **icons:** add text-bold_24 ([3206631](https://github.com/momentum-design/momentum-ui/commit/3206631436e50909f0fe81844b63763c04277033))
+* **icons:** add text-italic_24 ([b1a0df9](https://github.com/momentum-design/momentum-ui/commit/b1a0df90240d515f7947dc7a5e4abac2831f1ead))
+* **icons:** add text-list-bulleted_24 ([38b6680](https://github.com/momentum-design/momentum-ui/commit/38b66801a468ff0fd0ce26b25639460067ba2e4e))
+* **icons:** add text-underline_24 ([b1e217a](https://github.com/momentum-design/momentum-ui/commit/b1e217ae1daa0a872e6ea9f2d64820026ae92b27))
+
+
+
+
+
+# [7.34.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.33.1...@momentum-ui/icons@7.34.0) (2020-06-02)
+
+
+### Features
+
+* **icons:** add invited-user_16 ([f551714](https://github.com/momentum-design/momentum-ui/commit/f551714ae9ae6db0592ae92aaf9061393d124ed5))
+* **icons:** add invited-user_32 ([6fb8aa3](https://github.com/momentum-design/momentum-ui/commit/6fb8aa398a18c4afe96d569cf513fe5c89b82350))
+* **icons:** add invited-user_56 ([be8ab61](https://github.com/momentum-design/momentum-ui/commit/be8ab61f87d2705a1631f09545fa677858716c45))
+* **icons:** add join-audio_20 ([53f4785](https://github.com/momentum-design/momentum-ui/commit/53f4785d78fb3d7db9b92c76cbb37986e36aa8e7))
+* **icons:** add mirror_16 ([3d3e06b](https://github.com/momentum-design/momentum-ui/commit/3d3e06bddf204029753266ae1db43252c49fbfe2))
+* **icons:** add sort-down_16 ([d7b5f4d](https://github.com/momentum-design/momentum-ui/commit/d7b5f4dcd9a34ba19b22fce5e89ebfa839c63e48))
+* **icons:** add start-chat_24 ([13247e1](https://github.com/momentum-design/momentum-ui/commit/13247e1c57b8a6e5c03214edd7b6f11a2ce882cf))
+* **icons:** add team-new_24 ([0dfc21f](https://github.com/momentum-design/momentum-ui/commit/0dfc21f31fb551806aa804fd94885be7f4a3ce43))
+* **icons:** add video-effect_16 ([8882334](https://github.com/momentum-design/momentum-ui/commit/88823340acd5a6bc698a619e79fbea9602464d0a))
+
+
+
+
+
+## [7.33.1](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.33.0...@momentum-ui/icons@7.33.1) (2020-05-27)
+
+**Note:** Version bump only for package @momentum-ui/icons
+
+
+
+
+
 # [7.33.0](https://github.com/momentum-design/momentum-ui/compare/@momentum-ui/icons@7.32.2...@momentum-ui/icons@7.33.0) (2020-05-27)
 
 

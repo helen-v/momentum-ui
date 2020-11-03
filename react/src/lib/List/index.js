@@ -134,7 +134,7 @@ class List extends React.Component {
   }
 
   handleKeyDown = e => {
-    const { shouldFocusActive, shouldPropagateKeyDown} = this.props;
+    const { shouldFocusActive, shouldPropagateKeyDown, navigationDirection} = this.props;
     const { focus } = this.state.listContext;
     let clickEvent;
     const tgt = e.currentTarget;
@@ -149,14 +149,14 @@ class List extends React.Component {
     };
 
     switch (e.which) {
-      case 9:
+      case 9: // TAB
         if(shouldFocusActive) {
           this._needsRefocus = false;
           this.setFocusToActive();
         }
         break;
-      case 32:
-      case 13:
+      case 32: // SPACE
+      case 13: // ENTER
         try {
           clickEvent = new MouseEvent('click', {
             view: window,
@@ -174,29 +174,45 @@ class List extends React.Component {
         flag = true;
         break;
 
-      case 38:
-      case 37:
-        this.getNextFocusedChild(items, tgt, -1);
-        this._needsRefocus = true;
-        if(!shouldPropagateKeyDown) flag = true;
+      case 38: // UP
+        if (navigationDirection === 'both' || navigationDirection === 'vertical') {
+          this.getNextFocusedChild(items, tgt, -1);
+          this._needsRefocus = true;
+          if(!shouldPropagateKeyDown) flag = true;
+        }
+        break;
+      case 37: // LEFT
+        if (navigationDirection === 'both' || navigationDirection === 'horizontal') {
+          this.getNextFocusedChild(items, tgt, -1);
+          this._needsRefocus = true;
+          if(!shouldPropagateKeyDown) flag = true;
+        }
         break;
 
-      case 39:
-      case 40:
-        this.getNextFocusedChild(items, tgt, 1);
-        this._needsRefocus = true;
-        if(!shouldPropagateKeyDown) flag = true;
+      case 39: // RIGHT
+        if (navigationDirection === 'both' || navigationDirection === 'horizontal') {
+          this.getNextFocusedChild(items, tgt, 1);
+          this._needsRefocus = true;
+          if(!shouldPropagateKeyDown) flag = true;
+        }
+        break;
+      case 40: // DOWN
+        if (navigationDirection === 'both' || navigationDirection === 'vertical') {
+          this.getNextFocusedChild(items, tgt, 1);
+          this._needsRefocus = true;
+          if(!shouldPropagateKeyDown) flag = true;
+        }
         break;
 
-      case 33:
-      case 36:
+      case 33: // PAGE UP
+      case 36: // HOME
         this.setFocusToLimit('start', items, length);
         this._needsRefocus = true;
         flag = true;
         break;
 
-      case 34:
-      case 35:
+      case 34: // PAGE DOWN
+      case 35: // END
         this.setFocusToLimit('end', items, length);
         this._needsRefocus = true;
         flag = true;
@@ -233,7 +249,7 @@ class List extends React.Component {
     return;
 
     this.setFocus(items, index);
-  
+
     // Don't do anything if onSelect Event Handler is present
     if (onSelect) {
       return onSelect(e, {
@@ -357,6 +373,7 @@ class List extends React.Component {
       'focusFirstQuery',
       'focusQuery',
       'itemRole',
+      'navigationDirection',
       'shouldPropagateKeyDown',
       'shouldFocusActive',
       'shouldFocusInitial',
@@ -409,7 +426,10 @@ List.propTypes = {
     PropTypes.number
   ]),
   /** @prop Optional parameter for accessibility configuration | null */
-  ariaConfig: PropTypes.object,
+  ariaConfig: PropTypes.oneOfType([
+    PropTypes.bool,
+    PropTypes.object,
+  ]),
   /** @prop Children nodes to render inside List | null */
   children: PropTypes.node,
   /** @prop Optional css class string | '' */
@@ -426,9 +446,11 @@ List.propTypes = {
   id: PropTypes.string,
   /** @prop Optional tabType prop type to manually set child role | 'listitem' */
   itemRole: PropTypes.string,
+  /** @prop Restricts the traversal of the list with either UP/DOWN, LEFT/RIGHT, or both | 'both' */
+  navigationDirection: PropTypes.oneOf(['vertical', 'horizontal', 'both']),
   /** @prop Callback function invoked by user selecting an interactive item within List | null */
   onSelect: PropTypes.func,
-  /** @prop Disables the stopPropagation() & preventDefault() for ArrowKey Events | false */  
+  /** @prop Disables the stopPropagation() & preventDefault() for ArrowKey Events | false */
   shouldPropagateKeyDown: PropTypes.bool,
   /** @prop Sets the ARIA role for the Nav, in the context of a TabContainer | 'list' */
   role: PropTypes.string,
@@ -459,6 +481,7 @@ List.defaultProps = {
   focusFirst: true,
   focusFirstQuery: '',
   focusQuery: '',
+  navigationDirection: 'both',
   onSelect: null,
   shouldPropagateKeyDown: false,
   role: 'list',
